@@ -7,6 +7,7 @@ Purpose: Export Outlook emails (Inbox + Sent Items) to/from/cc a specific addres
 GitHub: https://github.com/rsgrizz
 """
 
+
 import os
 import win32com.client
 from tqdm import tqdm  # Import the tqdm library for the progress bar
